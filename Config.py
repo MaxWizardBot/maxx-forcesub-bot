@@ -10,8 +10,8 @@ class Config():
   else:
     BOT_TOKEN = "1348217621:AAHc9Ecow0d3B3_rRMx3p_8wejWV5ph7uZo"
     DATABASE_URL = "mongodb+srv://maxx:moz@cluster0.hjf1v.mongodb.net/botzz?retryWrites=true&w=majority"
-    APP_ID = "1646253"
-    API_HASH = "9465dd8d634898d7880a2fc4f0524c2c"
+    APP_ID = "1495354"
+    API_HASH = "315267adfa423c833da4878cee1940e7"
 
 
 class Messages():
