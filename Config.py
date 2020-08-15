@@ -24,3 +24,4 @@ class Messages():
       ]
 
       START_MSG = "Hey [{}](tg://user?id={})\nI am a multifunctional group manager bot.\nLearn more at /help"
+      
