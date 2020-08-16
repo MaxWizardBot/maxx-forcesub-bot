@@ -9,7 +9,7 @@ class Config():
     API_HASH = os.environ.get("API_HASH", None)
   else:
     BOT_TOKEN = "1348217621:AAHc9Ecow0d3B3_rRMx3p_8wejWV5ph7uZo"
-    DATABASE_URL = "postgres://mssvaxmcmftidz:8e86577c2331feeb4e6648c55ae5fbfd0cff1a3a4400eb397dd3236cfc42be94@ec2-54-247-103-43.eu-west-1.compute.amazonaws.com:5432/delrbdidpnqk22"
+    DATABASE_URL = "mongodb+srv://maxx:maxx@cluster0.hjf1v.mongodb.net/mybotz?retryWrites=true&w=majority"
     APP_ID = "1495354"
     API_HASH = "315267adfa423c833da4878cee1940e7"
 
