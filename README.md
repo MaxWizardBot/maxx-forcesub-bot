@@ -8,6 +8,9 @@
 - [ ] Clean messages after completion
 
 ## Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MaxWizard1/maxx-forcesub-bot/tree/master)
+
 - Clone this repo
 ```
 git clone https://github.com/viperadnan-git/eagle-telegram-bot
