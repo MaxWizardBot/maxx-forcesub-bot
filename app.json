@@ -1,0 +1,16 @@
+{
+  "name": "maxx-forcesub-bot",
+  "description": "This is a telegram bot writen in python for managing group/channel.",
+  "logo": "https://i.ibb.co/v1PzRDt/preview-151756-1590400520.jpg",
+  "keywords": [
+    "telegram",
+    "eaglescout",
+    "forcesub"
+  ],
+  "repository": "https://github.com/MaxWizard1/maxx-forcesub-bot",
+  "success_url": "https://github.com/MaxWizard1/maxx-forcesub-bot",
+  "website": "https://github.com/MaxWizard1/maxx-forcesub-bot",  
+  "env": {
+  
+  "stack": "container"
+}
