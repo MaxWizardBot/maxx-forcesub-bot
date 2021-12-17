@@ -8,10 +8,10 @@ class Config():
     APP_ID = os.environ.get("APP_ID", 6)
     API_HASH = os.environ.get("API_HASH", None)
   else:
-    BOT_TOKEN = ""
-    DATABASE_URL = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = 5039042317:AAExTg0l_Y6tDYkxgwysdxmX4LBZEmS6ZEE ""
+    DATABASE_URL = mongodb+srv://ur:ur@cluster0.souam.mongodb.net/myFirstDatabase?retryWrites=true&w=majority ""
+    APP_ID = 8646380 ""
+    API_HASH = e7a794cae72e729d0bc3aed114bbacd5 ""
 
 
 class Messages():
